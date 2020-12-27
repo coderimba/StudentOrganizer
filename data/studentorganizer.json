@@ -1,0 +1,58 @@
+{"assignments": [
+    {
+        "courseCode": "MATH 200",
+        "dueDate": "11-22",
+        "name": "A10",
+        "estimatedHours": 4,
+        "complete": false
+    },
+    {
+        "courseCode": "ECON 101",
+        "dueDate": "11-22",
+        "name": "Quiz 10",
+        "estimatedHours": 0.75,
+        "complete": true
+    },
+    {
+        "courseCode": "CPSC 121",
+        "dueDate": "11-16",
+        "name": "Pre-class Quiz 10",
+        "estimatedHours": 3,
+        "complete": true
+    },
+    {
+        "courseCode": "CPSC 121",
+        "dueDate": "11-19",
+        "name": "Pre-lab 8",
+        "estimatedHours": 2,
+        "complete": false
+    },
+    {
+        "courseCode": "CPSC 121",
+        "dueDate": "12-02",
+        "name": "A5",
+        "estimatedHours": 6,
+        "complete": false
+    },
+    {
+        "courseCode": "CPSC 210",
+        "dueDate": "11-20",
+        "name": "Phase 3",
+        "estimatedHours": 12,
+        "complete": true
+    },
+    {
+        "courseCode": "CPSC 210",
+        "dueDate": "11-17",
+        "name": "Lab 8",
+        "estimatedHours": 2,
+        "complete": true
+    },
+    {
+        "courseCode": "CPSC 210",
+        "dueDate": "11-19",
+        "name": "D5",
+        "estimatedHours": 0.5,
+        "complete": false
+    }
+]}
